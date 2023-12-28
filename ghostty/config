@@ -1,0 +1,13 @@
+theme = Ubuntu
+font-family = Berkeley Mono
+font-size = 16
+
+keybind = alt+left=esc:b
+keybind = alt+right=esc:f
+
+cursor-style = block
+# cursor-style-blink = false
+cursor-color = 015CC5
+shell-integration-features = no-cursor
+
+command = zsh
